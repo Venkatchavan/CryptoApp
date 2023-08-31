@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/6th sem Notes/Cryptography/app/src/main/res/layout/activity_binary_encrypt.xml" value="0.1" />
+        <entry key="..\:/6th sem Notes/Cryptography/app/src/main/res/layout/activity_ceaser_cipher.xml" value="0.12360688956433637" />
+        <entry key="..\:/6th sem Notes/Cryptography/app/src/main/res/layout/activity_decoder.xml" value="0.12360688956433637" />
+        <entry key="..\:/6th sem Notes/Cryptography/app/src/main/res/layout/activity_encoder.xml" value="0.12360688956433637" />
+        <entry key="..\:/6th sem Notes/Cryptography/app/src/main/res/layout/activity_main.xml" value="0.12360688956433637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
