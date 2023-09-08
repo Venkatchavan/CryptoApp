@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- This mobile application was developed by Venkat Chavan N.
+- This mobile application was developed by Venkat Chavan N and Sandhya Shanbhag
 - Special thanks to the open-source community for inspiration and resources.
 
 Enjoy encrypting and securing your text with our mobile application!
